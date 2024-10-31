@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon">
+            <rect id="Rectangle-4" fill="#22272F" fill-rule="nonzero" x="0" y="0" width="128" height="128"></rect>
+            <g id="Symbol" transform="translate(44.000000, 42.000000)">
+                <polygon id="Fill-18" fill="#655AE6" points="39.7751295 33.675318 39.7745771 11.225178 19.8872057 1.8e-05 19.8877581 22.450158"></polygon>
+                <polygon id="Fill-20" fill="#5A50CE" points="39.7743194 11.225232 19.8869479 7.2e-05 19.8875003 22.449672"></polygon>
+                <polygon id="Fill-22" fill="#655AE6" points="39.7748533 33.674958 19.8874819 22.449798 39.774301 11.225178"></polygon>
+                <polygon id="Fill-24" fill="#4896F0" points="39.7748533 33.675318 19.8874819 22.450158 0.000478730159 33.674418 19.8880343 44.899758"></polygon>
+                <polygon id="Fill-27" fill="#4896F0" points="19.887979 44.899308 19.8874267 22.449708 39.7747981 33.675048"></polygon>
+                <polygon id="Fill-29" fill="#4086D7" points="0.000552380952 33.674094 19.8873714 22.449834 19.8879238 44.899254"></polygon>
+                <polygon id="Fill-31" fill="#F5D980" points="19.8868927 1.8e-05 7.36507937e-05 11.224278 0.000626031746 33.674418 19.8874451 22.450158"></polygon>
+                <polygon id="Fill-33" fill="#F2D268" points="1.84126984e-05 11.224368 0.000570793651 33.674148 19.8873898 22.449708"></polygon>
+                <polygon id="Fill-35" fill="#FADA70" points="19.8868927 1.8e-05 7.36507937e-05 11.224278 19.8874451 22.449798"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
